@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$title$</id>
+    <version>$version$</version>
+    <title>ExtentReports plugin using ExtentHtmlReporter</title>
+    <authors>Junaidy Laures</authors>
+    <owners>Junaidy Laures</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <iconUrl>http://extentreports.com/docs/versions/assets/img/logo.png</iconUrl>
+    <licenseUrl>http://www.extentreports.com/community</licenseUrl>
+    <projectUrl>http://www.extentreports.com/community</projectUrl>
+    <description>$description$</description>
+    <copyright>2019</copyright>
+    <tags>UiPath</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
